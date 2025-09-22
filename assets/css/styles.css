@@ -40,7 +40,7 @@ body {
   flex-direction: column;
   background-color: var(--color-White);
   border-radius: 12px;
-  /* overflow: hidden; */
+  overflow: hidden; 
   width: 100;
 }
 
